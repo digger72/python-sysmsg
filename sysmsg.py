@@ -86,9 +86,11 @@ for i in message:
 		line3 = line3 + abc[i][2]
 
 #output text lines
+print()
 print(line1)
 print(line2)
 print(line3)
+print()
 
 exit()
 
